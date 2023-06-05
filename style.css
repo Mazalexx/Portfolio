@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  #project-container, #task-container {
+    margin-bottom: 20px;
+  }
+  
+  button {
+    margin-top: 10px;
+  }
